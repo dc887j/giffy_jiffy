@@ -1,58 +1,56 @@
 .header {
-    text-align: center;
-    font-family: "Montserrat", sans-serif;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
 }
 
-h1{
-font-weight: 800;
-font-size: 83px;
-color:#286090;
+h1 {
+  font-weight: 800;
+  font-size: 83px;
+  color: #286090;
 }
 button {
-    font-family: "Montserrat", sans-serif;
-    font-size: 16px;
-    padding: 5px 10px;
-    margin: 2px;
-    border: 1px solid rgb(73, 168, 175);
-    border-radius: 20px;
-    background-color: #286090;
-    color: rgb(228, 228, 228);
-
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  padding: 5px 10px;
+  margin: 2px;
+  border: 1px solid rgb(73, 168, 175);
+  border-radius: 20px;
+  background-color: #286090;
+  color: rgb(228, 228, 228);
 }
 
 #add-tv-show {
-    font-family: "Montserrat", sans-serif;
-    font-size: 16px;
-    padding: 5px 10px;
-    margin: 2px;
-    border: 1px solid rgb(112, 112, 112);
-    border-radius: 5px;
-    background-color: rgb(112, 112, 112);
-    color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  padding: 5px 10px;
+  margin: 2px;
+  border: 1px solid rgb(112, 112, 112);
+  border-radius: 5px;
+  background-color: rgb(112, 112, 112);
+  color: white;
 }
 
 #tv-input {
-    font-family: "Montserrat", sans-serif;
-    font-size: 16px;
-    border: 1px solid rgb(112, 112, 112);
-    border-radius: 5px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  border: 1px solid rgb(112, 112, 112);
+  border-radius: 5px;
 }
 
 body {
-    /* background: linear-gradient( 90deg, rgba(255, 225, 132, .7) 50%, rgba(255, 255, 255, 0) 50%), linear-gradient( 90deg, rgba(32, 113, 120, .3) 50%, rgba(255, 255, 255, 0) 50%), linear-gradient( 90deg, rgba(255, 150, 102, .3) 50%, rgba(255, 255, 255, 0) 50%), linear-gradient( 90deg, rgba(23, 76, 79, .1) 50%, rgba(255, 255, 255, 0) 50%); */
-    background-size: 7em 7em, 5em 5em, 3em 3em, 1em 1em;
-    background-color: white;
-    font: 10px/1.4 'Trebuchet MS', Verdana, sans-serif;
+  /* background: linear-gradient( 90deg, rgba(255, 225, 132, .7) 50%, rgba(255, 255, 255, 0) 50%), linear-gradient( 90deg, rgba(32, 113, 120, .3) 50%, rgba(255, 255, 255, 0) 50%), linear-gradient( 90deg, rgba(255, 150, 102, .3) 50%, rgba(255, 255, 255, 0) 50%), linear-gradient( 90deg, rgba(23, 76, 79, .1) 50%, rgba(255, 255, 255, 0) 50%); */
+  background-size: 7em 7em, 5em 5em, 3em 3em, 1em 1em;
+  background-color: white;
+  font: 10px/1.4 "Trebuchet MS", Verdana, sans-serif;
 }
 
-#team-space{
-    margin-top: 50px;
-    margin-bottom: 50px;
+#team-space {
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
-#nflPic{
-
+#nflPic {
+  margin-top: 33px;
 }
 
-#gifs-appear-here{
-    
+#gifs-appear-here {
 }
